@@ -1,0 +1,2 @@
+# AdatbazisKotelezo
+Adatbkotelezo
